@@ -9,7 +9,7 @@ import aiohttp
 import asyncio
 
 # Get environment variables
-BOT_TOKEN = os.getenv('BOT_TOKEN')
+BOT_TOKEN = os.getenv('BOT_TOKEN' '7812659146:AAHp8F_A2kkLWZCFAF15bjvchwKQzsYWCyA')
 TARGET_CHANNEL_ID = int(os.getenv('TARGET_CHANNEL_ID', '-1002550483559'))
 
 # Terabox API URL
